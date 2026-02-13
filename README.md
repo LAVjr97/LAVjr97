@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Luis 👋
+Computer Science & Engineering Graduate | Aspiring Software Engineer
 
-<!--
-**LAVjr97/LAVjr97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy building real-world software that improves user experiences and solves practical problems.  
+Currently seeking a Software Engineering Internship.
 
-Here are some ideas to get you started:
+## 💻 Technical Skills
+**Languages:** C++, C, Dart, Python  
+**Frameworks:** Qt, Flutter, Firebase  
+**Tools:** Git/GitHub, AWS, REST APIs, Multithreading  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 🧾 Dry Cleaner Order Management System (C++ / Qt)
+Desktop application built for a real small business to manage orders, customers, and receipts.
+- Multi-page GUI built with Qt
+- Multithreaded file loading and data parsing
+- Receipt printing integration (Epson printer)
+- Financial tracking
+
+### 📱 Student Learning Mobile App (Flutter / Firebase)
+Academic project to help Spanish-speaking students learn math in English.
+- Team lead of year-long development project
+- Firebase authentication + database integration
+- Interactive quizzes and lesson modules
+- Built for bilingual student accessibility
+
+## 📫 Contact
+Email: lavjr97@gmail.com  
+LinkedIn: https://www.linkedin.com/in/luis-a-villalta/
+
